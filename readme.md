@@ -36,6 +36,7 @@ Para instalar o Meteor, você precisará seguir os seguintes passos:
 5. Reinicie o Eclipse.
 6. Deverá a opção Meteor no menu da ferramenta Eclipse.
 7. O Meteor automaticamente também instala o plugin Pitclipse, não se deve instalar apartadamente.
+8. PASSO OPCIONAL: Instalar o CSVEdit2 (<https://marketplace.eclipse.org/content/csvedit2>) no Eclipse para facilitar na exibição dos resultados de testes.
 
 ### Recomendações
 
@@ -105,6 +106,7 @@ To install the Meteor tool, you need to follow these steps:
 5. Restart Eclipse.
 6. You should now see the option Meteor in the Eclipse tool menu.
 7. The Meteor tool automatically installs the Pitclipse plugin, so you don't need to install it separately.
+8. OPTIONAL STEP: Install the CSVEdit2 plugin in Eclipse (<https://marketplace.eclipse.org/content/csvedit2>) to make it easier to view the results of tests.
 
 ### Recommendations
 
