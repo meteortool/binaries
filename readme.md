@@ -52,9 +52,9 @@ Se você encontrar algum problema ou quiser contribuir com o projeto, você pode
 | Artigo acadêmico | <https://www.mdpi.com/2073-431X/12/11/230> |
 | **Meteor:** *Todos os repositórios do projeto* | <https://github.com/meteortool> |
 | **Meteor Plugin:** *Meteor Eclipse Plugin Download Site* | <https://meteortool.github.io/binaries> | 
-| **Meteor Assessement:** *Compilação dos dados do estudo preliminar* | https://github.com/meteortool/assessment |
-| **Meteor Binaries:** *Repositório para armazenar os releases do plugin* | https://github.com/meteortool/binaries |
-| **Meteor Pitclipse:** *Fork do projeto Pitclipse com as contribuições do Meteor* | https://github.com/meteortool/pitclipse |
+| **Meteor Assessement:** *Compilação dos dados do estudo preliminar* | <https://github.com/meteortool/assessment> |
+| **Meteor Binaries:** *Repositório para armazenar os releases do plugin* | <https://github.com/meteortool/binaries> |
+| **Meteor Pitclipse:** *Fork do projeto Pitclipse com as contribuições do Meteor* | <https://github.com/meteortool/pitclipse> |
 | **Pitclipse:** Repositório original do Pitclipse | <https://github.com/pitest/pitclipse> | 
 | **Pitclipse Plugin:** Pitclipse Eclipse Plugin Download Site | <https://marketplace.eclipse.org/content/pitclipse> |
 
@@ -119,9 +119,9 @@ If you find any problem or want to contribute to the project, you can open an is
 | Academic Article | <https://www.mdpi.com/2073-431X/12/11/230> |
 | **Meteor:** *All project repositories* | <https://github.com/meteortool> |
 | **Meteor Plugin:** *Meteor Eclipse Plugin Download Site* | <https://meteortool.github.io/binaries> |
-| **Meteor Assessment:** *Compilation of data from preliminary study* | https://github.com/meteortool/assessment |
-| **Meteor Binaries:** *Repository for storing plugin releases* | https://github.com/meteortool/binaries |
-| **Meteor Pitclipse:** *Fork of Pitclipse project with contributions from Meteor* | https://github.com/meteortool/pitclipse |
+| **Meteor Assessment:** *Compilation of data from preliminary study* | <https://github.com/meteortool/assessment> |
+| **Meteor Binaries:** *Repository for storing plugin releases* | <https://github.com/meteortool/binaries> |
+| **Meteor Pitclipse:** *Fork of Pitclipse project with contributions from Meteor* | <https://github.com/meteortool/pitclipse> |
 | **Pitclipse:** Original Pitclipse repository | <https://github.com/pitest/pitclipse> |
 | **Pitclipse Plugin:** Pitclipse Eclipse Plugin Download Site | <https://marketplace.eclipse.org/content/pitclipse> |
 
