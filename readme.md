@@ -9,6 +9,16 @@ Para que o projeto fosse possível, foi realizado um fork do projeto Pitclipse p
 
 O projeto foi desenvolvimento por Tiago Samuel Rodrigues Teixeira (<https://www.linkedin.com/in/tsrteixeira/>) em conjunto com os professores Eduardo Martins Guerra e Fabio Fagundes Silveira.
 
+| Pesquisador | ORCID |
+| --- | --- |
+| Tiago Samuel Rodrigues Teixeira | [0009-0006-9960-4729](<https://orcid.org/0009-0006-9960-4729>) |  
+| Eduardo Martins Guerra  | [0000-0001-5555-3487](<https://orcid.org/0000-0001-5555-3487>) |
+| Fábio Fagundes Silveira | [0000-0002-2063-2959](<https://orcid.org/0000-0002-2063-2959>) | 
+
+# Estudo preliminar (Assessment)
+
+Os dados utilizados para embasamento desse trabalho estão contidos no repositório <https://github.com/meteortool/assessment>.
+
 # Artigo acadêmico
 
 No link (<https://www.mdpi.com/2073-431X/12/11/230>) é possível obter o estudo preliminar realizado para suportar o desenvolvimento desse projeto.
@@ -20,7 +30,7 @@ Para instalar o Meteor, você precisará seguir os seguintes passos:
 1. Ter a IDE Eclipse instalada em seu ambiente. 
 2. Ir em Help > Install New Software ... 
 3. Na janela Install clicar em Add...
-4. Na janela Add Repository no campo [Name] preencher com Meteor PIT e no campo [URL] (<https://meteortool.github.io/binaries/>) 
+4. Na janela Add Repository no campo [Name] preencher com Meteor PIT e no campo [URL] (<https://meteortool.github.io/binaries/>).
 5. Reinicie o Eclipse.
 6. Deverá a opção Meteor no menu da ferramenta Eclipse.
 7. O Meteor automaticamente também instala o plugin Pitclipse, não se deve instalar apartadamente.
@@ -37,13 +47,16 @@ Se você encontrar algum problema ou quiser contribuir com o projeto, você pode
 
 ## Links úteis
 
-| Artigo Acadêmico | Link |
+| Descrição | Link |
 | --- | --- |
 | Artigo acadêmico | <https://www.mdpi.com/2073-431X/12/11/230> |
-| Meteor Eclipse Plugin Download Site | <https://meteortool.github.io/binaries> | 
-| Meteor fontes | <https://github.com/meteortool> |
-| Pitclipse fontes (original) | <https://github.com/pitest/pitclipse> | 
-| Pitclipse Eclipse Plugin Download Site | <https://marketplace.eclipse.org/content/pitclipse> |
+| **Meteor:** *Todos os repositórios do projeto* | <https://github.com/meteortool> |
+| **Meteor Plugin:** *Meteor Eclipse Plugin Download Site* | <https://meteortool.github.io/binaries> | 
+| **Meteor Assessement:** *Compilação dos dados do estudo preliminar* | https://github.com/meteortool/assessment |
+| **Meteor Binaries:** *Repositório para armazenar os releases do plugin* | https://github.com/meteortool/binaries |
+| **Meteor Pitclipse:** *Fork do projeto Pitclipse com as contribuições do Meteor* | https://github.com/meteortool/pitclipse |
+| **Pitclipse:** Repositório original do Pitclipse | <https://github.com/pitest/pitclipse> | 
+| **Pitclipse Plugin:** Pitclipse Eclipse Plugin Download Site | <https://marketplace.eclipse.org/content/pitclipse> |
 
 ## Licença
 
@@ -63,9 +76,19 @@ To make the project possible, a fork of the Pitclipse project was made to make t
 
 The project was developed by Tiago Samuel Rodrigues Teixeira (<https://www.linkedin.com/in/tsrteixeira/>) in collaboration with professors Eduardo Martins Guerra and Fabio Fagundes Silveira.
 
+| Researcher | ORCID |
+| --- | --- |
+| Tiago Samuel Rodrigues Teixeira | [0009-0006-9960-4729](<https://orcid.org/0009-0006-9960-4729>) | 
+| Eduardo Martins Guerra | [0000-0001-5555-3487](<https://orcid.org/0000-0001-5555-3487>) |
+| Fábio Fagundes Silveira | [0000-0002-2063-2959](<https://orcid.org/0000-0002-2063-2959>) |
+
+# Preliminary Study (Assessment)
+
+The data used for this study can be found in the repository <https://github.com/meteortool/assessment>.
+
 # Academic Article
 
-In the link (<https://www.mdpi.com/2073-431X/12/11/230>), it is possible to obtain the preliminary study conducted to support the development of this project.
+In the link (<https://www.mdpi.com/2073-431X/12/11/230>) you can obtain the preliminary study done to support the development of this project.
 
 ## Installation
 
@@ -74,33 +97,36 @@ To install the Meteor tool, you need to follow these steps:
 1. Have the Eclipse IDE installed on your environment.
 2. Go to Help > Install New Software ...
 3. In the Install window, click on Add...
-4. In the Add Repository window, fill in the [Name] field with "Meteor PIT" and the [URL] field with "<https://meteortool.github.io/binaries/>"
+4. In the Add Repository window, in the [Name] field, enter "Meteor PIT" and in the [URL] field (<https://meteortool.github.io/binaries/>).
 5. Restart Eclipse.
-6. You should now have the option to use the Meteor tool in the Eclipse menu.
-7. The Meteor automatically installs the Pitclipse plugin, so it should not be installed separately.
+6. You should now see the option Meteor in the Eclipse tool menu.
+7. The Meteor tool automatically installs the Pitclipse plugin, so you don't need to install it separately.
 
 ### Recommendations
 
-1. Use the latest version of Eclipse JEE - the Meteor tool was tested and validated on version 2023-12 (4.30.0).
-2. Remove any previous installations of Pitclipse, if you had them.
-3. If there are any problems, try using a new workspace (clean).
+1. Use the latest version of Eclipse JEE - the Meteor tool was tested and homologated in version 2023-12 (4.30.0).
+2. Remove any previous installations of Pitclipse, if you had installed it before.
+3. If there is any problem, try using a new (clean) workspace.
 
 ## Contributions
 
-If you find any problems or want to contribute to the project, you can open an issue on GitHub or send a pull request.
+If you find any problem or want to contribute to the project, you can open an issue on GitHub or send a pull request.
 
 ## Useful Links
 
-| Academic Article | Link |
+| Description | Link |
 | --- | --- |
 | Academic Article | <https://www.mdpi.com/2073-431X/12/11/230> |
-| Meteor Eclipse Plugin Download Site | <https://meteortool.github.io/binaries> |
-| Meteor Sources | <https://github.com/meteortool> |
-| Pitclipse Sources (Original) | <https://github.com/pitest/pitclipse> |
-| Pitclipse Eclipse Plugin Download Site | <https://marketplace.eclipse.org/content/pitclipse> |
+| **Meteor:** *All project repositories* | <https://github.com/meteortool> |
+| **Meteor Plugin:** *Meteor Eclipse Plugin Download Site* | <https://meteortool.github.io/binaries> |
+| **Meteor Assessment:** *Compilation of data from preliminary study* | https://github.com/meteortool/assessment |
+| **Meteor Binaries:** *Repository for storing plugin releases* | https://github.com/meteortool/binaries |
+| **Meteor Pitclipse:** *Fork of Pitclipse project with contributions from Meteor* | https://github.com/meteortool/pitclipse |
+| **Pitclipse:** Original Pitclipse repository | <https://github.com/pitest/pitclipse> |
+| **Pitclipse Plugin:** Pitclipse Eclipse Plugin Download Site | <https://marketplace.eclipse.org/content/pitclipse> |
 
 ## License
 
 The Meteor tool is licensed under the MIT license.
 
-If you want to install the original Pitclipse plugin without the modifications that support the Meteor tool, click on [this link](<https://marketplace.eclipse.org/content/pitclipse>).
+If you want to install the original Pitclipse plugin without the changes that support the Meteor tool, click on [this link](<https://marketplace.eclipse.org/content/pitclipse>).
