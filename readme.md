@@ -1,13 +1,15 @@
 # Ferramenta Meteor (Versão em Português)
 (for English version see below)
 
-O Meteor é um projeto desenvolvido para apoiar desenvolvedores na validação do sucesso de uma refatoração do código de testes. Essa url serve como repositório .p2 que permite instalar o Meteor no Eclipse usando testes de mutação. 
+O Meteor é ferramenta produto de um trabalho de pesquisa de um mestrado para o curso de computação aplicada do [IPT](<https://ipt.br/ensino/>) (Instituto de Pesquisas Tecnológicas de São Paulo).
+
+Ele funciona como um plugin para a IDE Eclipse desenvolvido para apoiar desenvolvedores na validação do sucesso de uma refatoração do código de testes. Para instalar o Meteor vide as instruções abaixo.
 
 Para que o projeto fosse possível, foi realizado um fork do projeto Pitclipse para que fossem realizadas as alterações necessárias para funcionamento da ferramenta Meteor.
 
 # Autores
 
-O projeto foi desenvolvimento por Tiago Samuel Rodrigues Teixeira (<https://www.linkedin.com/in/tsrteixeira/>) em conjunto com os professores Eduardo Martins Guerra e Fabio Fagundes Silveira.
+O projeto foi desenvolvimento por [Tiago Samuel Rodrigues Teixeira](<https://www.linkedin.com/in/tsrteixeira/>) em conjunto com os professores Eduardo Martins Guerra e Fabio Fagundes Silveira.
 
 | Pesquisador | ORCID |
 | --- | --- |
@@ -68,13 +70,15 @@ Se você quiser instalar o plugin Pitclipse original sem as alterações que sup
 
 # Meteor Tool (English Version)
 
-The Meteor tool is a project developed to support developers in validating the success of a code refactoring. This URL serves as a p2 repository that allows you to install the Meteor tool in Eclipse using mutation testing.
+Meteor is a tool resulting from a master's degree research work for the applied computing course at [IPT](<https://ipt.br/ensino/>) (São Paulo Technological Research Institute).
+
+It works as a plugin for the Eclipse IDE designed to support developers in validating the success of a test code refactoring. To install Meteor, see the instructions below.
 
 To make the project possible, a fork of the Pitclipse project was made to make the necessary changes for the tool's functionality.
 
 # Authors
 
-The project was developed by Tiago Samuel Rodrigues Teixeira (<https://www.linkedin.com/in/tsrteixeira/>) in collaboration with professors Eduardo Martins Guerra and Fabio Fagundes Silveira.
+The project was developed by [Tiago Samuel Rodrigues Teixeira](<https://www.linkedin.com/in/tsrteixeira/>) in collaboration with professors Eduardo Martins Guerra and Fabio Fagundes Silveira.
 
 | Researcher | ORCID |
 | --- | --- |
