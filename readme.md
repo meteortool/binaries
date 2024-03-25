@@ -56,6 +56,7 @@ Se você encontrar algum problema ou quiser contribuir com o projeto, você pode
 | **Meteor:** *Todos os repositórios do projeto* | <https://github.com/meteortool> |
 | **Meteor Plugin:** *Meteor Eclipse Plugin Download Site* | <https://meteortool.github.io/binaries> | 
 | **Meteor Assessement:** *Compilação dos dados do estudo preliminar* | <https://github.com/meteortool/assessment> |
+| **Meteor Final Assessement:** *Compilação dos dados do estudo já com a ferramenta finalizada* | <https://github.com/meteortool/final_assessment> |
 | **Meteor Binaries:** *Repositório para armazenar os releases do plugin* | <https://github.com/meteortool/binaries> |
 | **Meteor Pitclipse:** *Fork do projeto Pitclipse com as contribuições do Meteor* | <https://github.com/meteortool/pitclipse> |
 | **Pitclipse:** Repositório original do Pitclipse | <https://github.com/pitest/pitclipse> | 
@@ -126,6 +127,7 @@ If you find any problem or want to contribute to the project, you can open an is
 | **Meteor:** *All project repositories* | <https://github.com/meteortool> |
 | **Meteor Plugin:** *Meteor Eclipse Plugin Download Site* | <https://meteortool.github.io/binaries> |
 | **Meteor Assessment:** *Compilation of data from preliminary study* | <https://github.com/meteortool/assessment> |
+| **Meteor Final Assessment:** *Compilation of study data already with the finalized tool* | [Link](https://github.com/meteortool/final_assessment) |
 | **Meteor Binaries:** *Repository for storing plugin releases* | <https://github.com/meteortool/binaries> |
 | **Meteor Pitclipse:** *Fork of Pitclipse project with contributions from Meteor* | <https://github.com/meteortool/pitclipse> |
 | **Pitclipse:** Original Pitclipse repository | <https://github.com/pitest/pitclipse> |
